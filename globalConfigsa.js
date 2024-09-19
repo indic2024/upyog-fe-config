@@ -1,5 +1,5 @@
 var globalConfigs = (function() {
-  var stateTenantId = 'mp'
+  var stateTenantId = 'pg'
   var gmaps_api_key = 'AIzaSyAQOd09-vjmk1sXFb_ZQYDz2nlfhXq7Wf8'
   var finEnv = 'upyog'
   var centralInstanceEnabled = false;

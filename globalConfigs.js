@@ -1,6 +1,6 @@
 var globalConfigs = (function () {
   var contextPath = "digit-ui";
-  var stateTenantId = "mp";
+  var stateTenantId = "pg";
   var gmaps_api_key = "AIzaSyAASfCFja6YxwDzEAzhHFc8B-17TNTCV0g";
   var configModuleName = "commonUiConfig";
   var centralInstanceEnabled = false;
